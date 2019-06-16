@@ -1,0 +1,3 @@
+# Car-rental-application
+Java practicing: Creating a desktop application for car rental:
+A desktop application for car rental built with Java. The application is keeping track of the company's cars, which are reserved and which are free. Always when closing the application, all the reserved/free cars are stored in separate notepad files. One notepad file for tracking the reserved cars, one notepad file for tracking the free cars. No database is being used. After relaunching the application again, the data is uploaded into the application: Reserved cars are still reserved, free cars are still free.
